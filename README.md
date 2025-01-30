@@ -3,4 +3,4 @@ Conducted a comparative analysis of several models, including YOLOv5, YOLOv8, an
 
 Read it at: https://dx.doi.org/10.14569/IJACSA.2024.0150736
 
-![Traffic Sign](Sample of val_batch for YOLOv8.png)
+![Traffic Sign](Sample of val_batch for YOLOv8.jpg)
